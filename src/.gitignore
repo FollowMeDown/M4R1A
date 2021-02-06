@@ -1,0 +1,8 @@
+dist/*
+M4R1A.log
+releases/*
+concat.py
+leelaz_opencl_tuning
+electron_zipped/*
+update_my_installation.py
+misc/perft-marcel.epd
